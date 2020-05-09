@@ -6,6 +6,8 @@ This game also requies an LCD Display of 84x48 Pixel Resolution.
 
 The Pin Connection for the LCD with TM4C123GXL is given below
 
+
+
 ***Wiring (using the third SPI port on TM4C123):***
 
 ***TM4C123 -  LCD 5110        Comment***
